@@ -26,13 +26,11 @@ Clona este repositorio en tu máquina local:
 
 git clone https://github.com/jonalex2020/ejemplo-proyecto.git
 cd ejemplo-proyecto
-```
 
 Instala las dependencias del proyecto:
 
 
 npm install
-```
 
 ---
 
@@ -54,22 +52,17 @@ npm install
 MONGO_URI=mongodb+srv://jonalexmerida:%40L3x%40nd3rm3r1d408101986%C3%B1@cluster0.qgzox.mongodb.net/habitosApp?retryWrites=true&w=majority&appName=Cluster0
 
 PORT=3000
-```
 
 
 ## ▶ 4. Ejecutar el Proyecto
 
 Para iniciar el servidor en modo desarrollo:
 
-```sh
 npm start
-```
 
 El servidor correrá en:
 
-```
 http://localhost:3000
-```
 
 ---
 
