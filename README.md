@@ -91,7 +91,7 @@ npm run build	Genera la versión de producción
 npm run start	Inicia la aplicación en producción
 
 📜 Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT. Puedes modificarlo y usarlo libremente. 😊
 
 🤝 Creador
 Jonalex Mérida | GitHub
