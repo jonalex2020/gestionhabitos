@@ -23,14 +23,14 @@ Antes de iniciar, asegúrate de tener instalado lo siguiente:
 
 Clona este repositorio en tu máquina local:
 
-```sh
+
 git clone https://github.com/jonalex2020/ejemplo-proyecto.git
 cd ejemplo-proyecto
 ```
 
 Instala las dependencias del proyecto:
 
-```sh
+
 npm install
 ```
 
@@ -50,7 +50,7 @@ npm install
 1. Crea un archivo `.env` en la raíz del proyecto:
 2. Agrega la siguiente configuración:
 
-```sh
+
 MONGO_URI=mongodb+srv://jonalexmerida:%40L3x%40nd3rm3r1d408101986%C3%B1@cluster0.qgzox.mongodb.net/habitosApp?retryWrites=true&w=majority&appName=Cluster0
 
 PORT=3000
@@ -183,4 +183,7 @@ Abre un Pull Request en GitHub.
 📄 8. Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes modificarlo y usarlo libremente. 😊
+
+🤝 Creador
+Jonalex Mérida | GitHub
 
