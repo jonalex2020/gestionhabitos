@@ -18,7 +18,20 @@ Permite visualizar, crear y administrar hábitos de manera sencilla.
 
 ## 📂 **Estructura del Proyecto**
 
-frontend/ ├── app/ # Contenedor principal de la app │ ├── layout.tsx # Layout global │ ├── page.tsx # Página principal │ ├── habits.tsx # Componente para mostrar hábitos │ ├── StoreProvider.tsx # Proveedor de Redux │ ├── globals.css # Estilos generales ├── feature/habit/ # Módulo de hábitos │ ├── habitSlice.ts # Estado y acciones de Redux │ ├── habitApi.ts # Función para llamar a la API ├── Redux/ # Configuración de Redux │ ├── store.ts # Configuración de la store global ├── public/ # Archivos públicos ├── .gitignore # Archivos ignorados por Git ├── package.json # Dependencias del proyecto └── tsconfig.json # Configuración de TypeScript
+frontend/ 
+├── app/ # Contenedor principal de la app │ 
+├── layout.tsx # Layout global │ 
+├── page.tsx # Página principal │ 
+├── habits.tsx # Componente para mostrar hábitos │ 
+├── StoreProvider.tsx # Proveedor de Redux │ 
+├── globals.css # Estilos generales 
+├── feature/habit/ # Módulo de hábitos │ 
+├── habitSlice.ts # Estado y acciones de Redux │ 
+├── habitApi.ts # Función para llamar a la API 
+├── Redux/ # Configuración de Redux │ 
+├── store.ts # Configuración de la store global 
+├── public/ # Archivos públicos ├── .gitignore # Archivos ignorados por Git 
+├── package.json # Dependencias del proyecto └── tsconfig.json # Configuración de TypeScript
 
 ---
 
